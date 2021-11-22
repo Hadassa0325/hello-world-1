@@ -3,6 +3,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/> <!-- quand ça commence par une lettre en maj c'est que c'est un composant -->
+  
 </template> 
 
 <script>
